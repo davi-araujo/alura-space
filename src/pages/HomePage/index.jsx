@@ -1,3 +1,5 @@
+import Footer from "../../components/Footer";
+import Galery from "../../components/Galery";
 import Header from "../../components/Header";
 import Menu from "../../components/Menu";
 
@@ -18,6 +20,10 @@ const HomePage = () => {
                     </div>
                 </section>
             </main>
+            <div>
+                <Galery />
+            </div>
+            <Footer />
         </>
     );
 };

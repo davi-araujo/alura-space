@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 16px;
+    background-color:#04244f;
+    align-items: center;
+}
+
+.footer p {
+    margin: 0;
+    font-family: "GandhiSansRegular";
+    color: #fff;
+}
+
+.footer__social_media {
+    display: flex;
+    width: 15%;
+    justify-content: space-around;
+}

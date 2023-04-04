@@ -1,6 +1,6 @@
 import logo from './images/logo.png';
 import search from './images/search.png';
-import styles from './Cabecalho.module.scss'
+import styles from './Cabecalho.module.scss';
 
 const Header = () => {
     return (
